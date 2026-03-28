@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 import time
 
-TOKEN = "8759823115:AAHUv5fTCp1NH548-xpx4mLF9VAhvl0_yJw"
+TOKEN = "8759823115:AAEysdLBO43QfXGq9DC1WDmDFplWhAlbLpw"
 ADMIN_ID = 8008313092
 
 user_balance = {}
